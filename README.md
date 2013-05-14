@@ -149,6 +149,6 @@ NarouNovel.new(text)
 3. デバッグについて
     今回、デバッグには`logger.debug 変数名`をプログラム内に入れ、変数値を出力させました。いわゆるprintfデバッグです。
 
-    ちょうどQA@ITというサイトに[Ruby on Railsのデバッグ方法。何かいい方法ありませんか？」(http://qa.atmarkit.co.jp/q/2914/)という質問がありましたのでご紹介しておきます。
+    ちょうどQA@ITというサイトに[Ruby on Railsのデバッグ方法。何かいい方法ありませんか？](http://qa.atmarkit.co.jp/q/2914/)という質問がありましたのでご紹介しておきます。
 
 
